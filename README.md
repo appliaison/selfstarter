@@ -103,3 +103,8 @@ There aren't any tests yet. Tests are very welcome!
 ## License
 
 Selfstarter is licensed under the [MIT License](https://tldrlegal.com/license/mit-license).
+
+gem install bundler
+
+https://stackoverflow.com/questions/9454860/how-do-i-resolve-this-railties-compatibility-issue
+
